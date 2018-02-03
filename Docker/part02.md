@@ -1,7 +1,7 @@
 # Docker 常用命令
 ## docker search 镜像名
     学会使用命令行的工具来检索名字叫做tutorial的镜像。
-
+![查询结果](https://github.com/it037218/Document/blob/master/Images/002.jpeg?raw=true)
 ```
 docker search php
 ```
