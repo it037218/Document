@@ -6,7 +6,7 @@
 brew search yaf
 ```
 搜索结果如下
-![brew search结果]()
+![brew search结果](https://github.com/it037218/Document/blob/master/Images/003.jpeg?raw=true)
 这里可以根据自己的选择安装对应版本的yaf
 ```
 brew install yaf
