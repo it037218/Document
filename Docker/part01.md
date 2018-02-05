@@ -25,4 +25,7 @@ Server:
   Experimental: true
 ```
 
-到目前为止docker算是安装完成了！
+到目前为止docker算是安装完成了！ 
+
+## 配置docker加速器
+[参考](https://www.daocloud.io/mirror#accelerator-doc)

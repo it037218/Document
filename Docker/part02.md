@@ -5,7 +5,6 @@
 ```
 docker search php
 ```
-
 ## docker pull 镜像名
     下载容器镜像
     根据上面search出来的结果进行下载。
@@ -30,3 +29,7 @@ docker search php
 ## docker push
     docker push命令可以将某一个镜像发布到官方网站。
 
+## docker exec -ti dc5e56fe6ae2 /bin/bash
+    执行一个已存在的容器
+## docker rename hello_world2 hi_world
+    重命名容器
